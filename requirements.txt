@@ -1,0 +1,10 @@
+google
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+google-cloud-core
+google-cloud-translate
+googleapis-common-protos
+rich
