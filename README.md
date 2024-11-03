@@ -52,5 +52,3 @@ An example is the "GWS Translate Slides" reporitory providing a script to transl
 - **Security:** Store your credentials securely and ensure the token.pickle file, which contains sensitive access tokens, is not exposed to unauthorized users.
 
 - **Rate Limits and Quotas:** Be aware of the Google API's rate limits and quotas. Excessive requests may result in your application being temporarily blocked from making further requests.
-
-This script is designed for developers or users with basic programming and Google Cloud Platform knowledge, aiming to automate interactions with Google Slides through a custom Python application.
